@@ -40,13 +40,29 @@ Multithreading – handles multiple clients simultaneously
 
 
 
-chat-app/
+client-server/
 
 ├── server.py # Chat server with Tkinter GUI
 
 ├── client.py # Chat client with Tkinter GUI
 
 └── README.md # Project documentation
+
+
+
+
+
+
+
+\### Client
+
+!\[Client Screenshot](screenshots/client.png)
+
+
+
+\### Server
+
+!\[Server Screenshot](screenshots/server.png)
 
 
 
