@@ -54,15 +54,15 @@ client-server/
 
 
 
-\### Client
+### Client
 
-!\[Client Screenshot](screenshots/client.png)
+![Client Screenshot](screenshots/client.png)
 
 
 
-\### Server
+### Server
 
-!\[Server Screenshot](screenshots/server.png)
+![Server Screenshot](screenshots/server.png)
 
 
 
